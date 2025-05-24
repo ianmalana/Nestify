@@ -1,0 +1,9 @@
+{
+  "app_name": "Nestify",
+  "login": "Login",
+  "title": "Country & Language",
+  "body": "Country & Language Settings",
+  "select_language": "Select Language",
+  "english": "English",
+  "spanish": "Spanish"
+}

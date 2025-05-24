@@ -1,0 +1,9 @@
+{
+  "app_name": "Nestify",
+  "login": "Iniciar sesión",
+  "title": "País e idioma",
+  "body": "Configuración de país e idioma",
+  "select_language": "Seleccionar idioma",
+  "english": "Inglés",
+  "spanish": "Español"
+}
